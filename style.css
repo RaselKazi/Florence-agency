@@ -136,23 +136,18 @@ ul{
     background-color: #7f8b8e;
 }
 
-  @media (min-width: 1024px) {
-    
-  }
+ 
   
-  @media screen and (max-width: 768px) {
-    
-    }
-  
-  @media (max-width: 765px) {
+  @media (max-width: 767px) {
     .hader-section{
-        height: 900px;
+        min-height: 900px;
 
     }
     .Achivement-section{
-        height: 800px; 
-
+        height: 950px;
     }
+
+    
     input {
         min-width: 300px ;
         border: none;
@@ -165,5 +160,6 @@ ul{
     }
     
   }
+
   
   
