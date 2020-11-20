@@ -138,7 +138,8 @@ ul{
 
  
   
-  @media (max-width: 768px) {
+  @media (max-width: 769
+  px) {
     .hader-section{
         min-height: 900px;
 
@@ -168,6 +169,12 @@ ul{
     }
     .Achivement-section{
         height: 950px;
+    }
+}
+  @media (max-width: 290px) {
+    
+    .Achivement-section{
+        height: 1150px;
     }
 }
 
