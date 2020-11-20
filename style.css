@@ -149,7 +149,7 @@ ul{
 
     
     input {
-        min-width: 300px ;
+        min-width: 200px ;
         border: none;
     }
 
@@ -170,7 +170,7 @@ ul{
         height: 950px;
     }
     input {
-        min-width: 220px ;
+        min-width: 200px ;
         border: none;
     }
 }
